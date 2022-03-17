@@ -10,3 +10,5 @@
 + 반응형 웹페이지 🎆
 + 깃허브 배포
 + [링크](https://yejin087.github.io/CAFE25)
+
+\+ 2022.3.17 : favicon 추가
