@@ -9,3 +9,5 @@
 + Grid 
 + 반응형 웹페이지 🎆
 + 깃허브 배포
+
+[Link] (https://yejin087.github.io/CAFE25/features.html)
